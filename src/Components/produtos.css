@@ -1,0 +1,12 @@
+.produto__section {
+    padding: 32px;
+}
+button {
+    cursor: pointer;
+    outline:  none;
+    border: none;
+    background: rgb(63, 63, 207);
+    color: cornsilk;
+    padding: 16px 32px;
+    margin: 16px;
+}
